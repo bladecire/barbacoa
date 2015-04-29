@@ -7,3 +7,4 @@ Chips Ahoi
 Hamburguesa de Kobe
 kebap
 Pinchitos
+Tortilla de patatas
